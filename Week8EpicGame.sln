@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8EpicGame", "Week8EpicGame\Week8EpicGame.csproj", "{F4A70E6E-BE2F-442D-A35B-EE99ADD320AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test 8.1", "test 8.1\test 8.1.csproj", "{F1900232-B6FB-47DA-8DDE-3965D57D1652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A70E6E-BE2F-442D-A35B-EE99ADD320AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A70E6E-BE2F-442D-A35B-EE99ADD320AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A70E6E-BE2F-442D-A35B-EE99ADD320AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A70E6E-BE2F-442D-A35B-EE99ADD320AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1900232-B6FB-47DA-8DDE-3965D57D1652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1900232-B6FB-47DA-8DDE-3965D57D1652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1900232-B6FB-47DA-8DDE-3965D57D1652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1900232-B6FB-47DA-8DDE-3965D57D1652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA743ADC-4381-447E-9CE1-4E840F6E2886}
+	EndGlobalSection
+EndGlobal
